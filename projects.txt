@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Accident Detection with Resnet",
+    "description": "Gradio app that detects accidents in videos using a model based on the ResNet-50 architecture. Model is optimized using IPEX, OpenVINO, and ONNX for fast, accurate detection. Users can upload videos through the app interface and receive feedback on whether an accident was detected.",
+    "url": "https://github.com/SSKlearns/Accident-Detection-with-Resnet50",
+  },
+  {
+    "id": 2,
+    "name": "AI Based Exam Scoring System",
+    "description": "A Streamlit app that automates student exam scoring using OpenAI's GPT models. It allows users to input questions, set parameters, upload responses, and export scores in a user-friendly interface. The app is easy to install, run, and modify for customized evaluations.",
+    "url": "https://github.com/SSKlearns/llm-for-evaluation",
+  }
+]
