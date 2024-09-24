@@ -10,5 +10,11 @@
     "name": "AI Based Exam Scoring System",
     "description": "A Streamlit app that automates student exam scoring using OpenAI's GPT models. It allows users to input questions, set parameters, upload responses, and export scores in a user-friendly interface. The app is easy to install, run, and modify for customized evaluations.",
     "url": "https://github.com/SSKlearns/llm-for-evaluation"
+  },
+  {
+    "id": "3",
+    "name": "DINO Fine-Tuning on Pedestrian Images",
+    "description": "Fine tuned the DINO object detection model on a small, custom pedestrian dataset. Due to resource constraints, implemented the project entirely on Kaggle, working with a notebook, like a terminal (very bad experience). Achieved decent performance with the fine-tuned model.",
+    "url": "https://github.com/SSKlearns/DINO-pedestrian"
   }
 ]
