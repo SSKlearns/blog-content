@@ -16,5 +16,11 @@
     "name": "DINO Fine-Tuning on Pedestrian Images",
     "description": "Fine tuned the DINO object detection model on a small, custom pedestrian dataset. Due to resource constraints, implemented the project entirely on Kaggle, working with a notebook, like a terminal (very bad experience). Achieved decent performance with the fine-tuned model.",
     "url": "https://github.com/SSKlearns/DINO-pedestrian"
+  },
+  {
+    "id": "4",
+    "name": "RaCh - RAG-based Chat Application",
+    "description": "A Retrieval-Augmented Generation (RAG) chat app built with Streamlit and FastAPI. It uses Chroma DB as vector db, GPT for responses, and integrates Langchain and Sarvam's text-to-speech API for audio outputs. The app enables users to engage with a multi-functional chatbot.",
+    "url": "https://github.com/SSKlearns/RaCh-agent"
   }
 ]
